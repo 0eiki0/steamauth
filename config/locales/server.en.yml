@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    steam_login_enabled: "Allow users to log in and sign up with Steam"
+    steam_web_api_key: "Steam Web API key (https://steamcommunity.com/dev/apikey). Optional but recommended: used to import the Steam name and avatar."
+    steam_login_import_avatar: "Use the Steam avatar as profile picture on sign-up (only if no custom picture is set)"

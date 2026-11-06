@@ -1,0 +1,9 @@
+plugins:
+  steam_login_enabled:
+    default: false
+    client: true
+  steam_web_api_key:
+    default: ""
+    secret: true
+  steam_login_import_avatar:
+    default: true

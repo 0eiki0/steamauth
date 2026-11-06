@@ -1,0 +1,5 @@
+de:
+  site_settings:
+    steam_login_enabled: "Anmeldung und Registrierung mit Steam erlauben"
+    steam_web_api_key: "Steam Web API Key (https://steamcommunity.com/dev/apikey). Optional, aber empfohlen: damit werden Steam-Name und Profilbild übernommen."
+    steam_login_import_avatar: "Bei der Registrierung das Steam-Profilbild als Avatar übernehmen (nur wenn noch kein eigenes Bild gesetzt ist)"
